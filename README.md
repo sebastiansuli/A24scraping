@@ -1,6 +1,6 @@
 # A24scraping
 
-### A24 is currently one of the best movie studios in the world if not the best (at least when it comes to ambitious, often budget cinema). Studio made many good movies, just in last year such as Lamb, Bodies Bodies Bodies, The Whale or Aftersun. So, as a fan of these movies I made data about A24 and analysis of their budget, gross etc.<br>
+### A24 is currently one of the best movie studios in the world if not the best (at least when it comes to ambitious, often budget cinema). This is confirmed e.g. by the huge success of Everything Everywhere At Once. Studio made in last year also hits such as Lamb, Bodies Bodies Bodies, The Whale or Aftersun. So, as a fan of these movies I made data about A24 and analysis of their budget, gross etc.<br>
 
 I scraped list of movies from Wikipedia (https://en.wikipedia.org/wiki/List_of_A24_films) and then modified and cleaned them. Operations such as: 'release dates' from different strings to datetime, 'budget', 'box office' from different strings with $ to float etc.<br>
 
